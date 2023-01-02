@@ -1,0 +1,1 @@
+words = ['makkara', 'sipatti']
